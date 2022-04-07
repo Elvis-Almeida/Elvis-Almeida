@@ -139,3 +139,5 @@
     </a> -->
 </p>
 <h5 align="center">@elvisrodriguesalmeida</h5>
+
+![Snake animation](https://github.com/Elvis-Almeida/Elvis-Almeida/blob/output/github-contribution-grid-snake.svg)
