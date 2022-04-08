@@ -1,4 +1,4 @@
-[![banner](./banner.jpg)](https://github.com/Elvis-Almeida)
+[![banner](./images/banner.jpg)](https://github.com/Elvis-Almeida)
     
 <p align="center">
     <a target="_blank" href="https://code.visualstudio.com/">
@@ -61,7 +61,7 @@
 
 ##
 
-<h3 align="center">Trabalhando em:</h3>
+<h3 align="center">Página de login:</h3>
 
 <p align="center">
     <a target="_blank" href="https://github.com/Elvis-Almeida/Pagina-de-login">
@@ -76,14 +76,14 @@
         <img
         align="center"
         width="400em"
-        src="./tela-de-login.jpg">
+        src="./images/tela-de-login.jpg">
         </img>    
     </a>
 </p>
 
 ##
 
-<h3 align="center">Repositório favorito:</h3>
+<h3 align="center">Projeto favorito:</h3>
 
 <p align="center">
     <a target="_blank" href="https://github.com/Elvis-Almeida/Jogo-da-Velha">
@@ -97,7 +97,7 @@
         <img
         align="center"
         width="400em"
-        src="./tela-jogo-da-velha.jpg">
+        src="./images/tela-jogo-da-velha.jpg">
         </img>
     </a>
 </p>
