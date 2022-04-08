@@ -1,4 +1,4 @@
-<div style="background-color: rgba(27, 31, 35, 0.04); padding: 30px;">
+<div style="background-image: url('./images/background.jpg'); padding: 30px;">
 
 [![banner](./images/banner.jpg)](https://github.com/Elvis-Almeida)
     
