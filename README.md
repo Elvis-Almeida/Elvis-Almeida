@@ -63,6 +63,27 @@
 
 ##
 
+<h3 align="center">Projeto que atualmente estou trabalhando:</h3>
+
+<p align="center">
+    <a target="_blank" href="https://github.com/Elvis-Almeida/Bread-Chat">
+        <img
+        align="center"
+        height="120em"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Elvis-Almeida&repo=Bread-Chat&theme=tokyonight">
+        </img> </a>
+        <br><br>
+    <!-- <a target="_blank" href="https://elvis-almeida.github.io/Bread-Chat"> -->
+        <img
+        align="center"
+        width="400em"
+        src="./images/background-bread-chat.jpg">
+        </img>
+    <!-- </a> -->
+</p>
+
+##
+
 <h3 align="center">Página de login:</h3>
 
 <p align="center">
@@ -107,13 +128,13 @@
 ##
 
 <h3 align="center">Sobre mim:</h3>
-<p align="center">Cursando ciência da computação</p>
+<p align="center">Estudei o ensino médio na Escola Estadual São Miguel, atualmente cursando o ensino superior de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - IFMA - Campus Imperatriz. Tenho habilidades em gravação e edição de vídeo, edição de imagens, programação e um pouco em música. tenho medalha de bronze na OBMEP 2016 e 4 menções honrosas OBMEP 2015, 2017, 2018, 2019. Fui aluno destaque em todo ensino médio. Na área de programação tenho conhecimento nas linguagens: HTML, CSS, JavaScript, Python e C, conheça mais sobre o que já fiz e estou fazendo atualmente acessando meus repositórios</p>
 
 ##
 
 <h3 align="center">Contato:</h3>
 <p align="center">
-    <a target="_blank" href="https://instagram.com/elvisrodriguesalmeida/">
+    <a target="_blank" href="https://www.instagram.com/elvis_almeida_dev/">
         <img
         align="center"
         src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
@@ -130,11 +151,12 @@
         align="center"
         src="https://img.shields.io/badge/Discord-1C1C1C?style=for-the-badge&logo=discord&logoColor=00FFFF">
     </a>
-    <a target="_blank" href="https://www.linkedin.com/in/Elvis-Almeida/">
+    --> <a target="_blank" href="https://www.linkedin.com/in/elvis-almeida1/">
         <img
             align="center"
             src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
     </a>
+    <!-- 
     <a target="_blank" href="https://www.youtube.com/channel/link-do-canal">
         <img
         align="center"
@@ -142,7 +164,8 @@
         />
     </a> -->
 </p>
-<h5 align="center">@elvisrodriguesalmeida</h5>
+<br>
+<br>
 
 ![Snake animation](https://github.com/Elvis-Almeida/Elvis-Almeida/blob/output/github-contribution-grid-snake.svg)
 
