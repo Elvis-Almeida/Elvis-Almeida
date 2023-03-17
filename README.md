@@ -63,27 +63,6 @@
 
 ##
 
-<h3 align="center">Projeto que atualmente estou trabalhando:</h3>
-
-<p align="center">
-    <a target="_blank" href="https://github.com/Elvis-Almeida/Bread-Chat">
-        <img
-        align="center"
-        height="120em"
-        src="https://github-readme-stats.vercel.app/api/pin/?username=Elvis-Almeida&repo=Bread-Chat&theme=tokyonight">
-        </img> </a>
-        <br><br>
-    <!-- <a target="_blank" href="https://elvis-almeida.github.io/Bread-Chat"> -->
-        <img
-        align="center"
-        width="400em"
-        src="./images/background-bread-chat.jpg">
-        </img>
-    <!-- </a> -->
-</p>
-
-##
-
 <h3 align="center">Página de login:</h3>
 
 <p align="center">
