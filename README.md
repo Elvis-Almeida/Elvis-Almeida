@@ -107,7 +107,7 @@
 ##
 
 <h3 align="center">Sobre mim:</h3>
-<p align="center">Estudei o ensino médio na Escola Estadual São Miguel, atualmente cursando o ensino superior de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - IFMA - Campus Imperatriz. Tenho habilidades em gravação e edição de vídeo, edição de imagens, programação e um pouco em música. tenho medalha de bronze na OBMEP 2016 e 4 menções honrosas OBMEP 2015, 2017, 2018, 2019. Fui aluno destaque em todo ensino médio. Na área de programação tenho conhecimento nas linguagens: HTML, CSS, JavaScript, Python e C, conheça mais sobre o que já fiz e estou fazendo atualmente acessando meus repositórios</p>
+<p align="center">Estudei o ensino médio na Escola Estadual São Miguel, atualmente cursando o ensino superior de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - IFMA - Campus Imperatriz e trabalhando na agência de marketing 9talk. Tenho habilidades em gravação e edição de vídeo, edição de imagens, programação e um pouco em música. tenho medalha de bronze na OBMEP 2016 e 4 menções honrosas OBMEP 2015, 2017, 2018, 2019. Fui aluno destaque em todo ensino médio. Na área de programação tenho conhecimento nas linguagens: HTML, CSS, JavaScript, Python e C, conheça mais sobre o que já fiz e estou fazendo atualmente acessando meus repositórios</p>
 
 ##
 
