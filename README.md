@@ -63,6 +63,25 @@
 
 ##
 
+<h3 align="center">Projeto favorito:</h3>
+
+<p align="center">
+    <a target="_blank" href="https://github.com/Elvis-Almeida/Elvis-Almeida-Servidor-Linux/wiki/01.-Introdu%C3%A7%C3%A3o">
+        <img
+        align="center"
+        height="120em"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=Elvis-Almeida&repo=Elvis-Almeida-Servidor-Linux&theme=tokyonight">
+        </img> </a>
+        <br><br>
+    <a target="_blank" href="https://github.com/Elvis-Almeida/Elvis-Almeida-Servidor-Linux/wiki/01.-Introdu%C3%A7%C3%A3o">
+        <img
+        align="center"
+        width="400em"
+        src="https://user-images.githubusercontent.com/70353348/236641774-2d13c069-9ce8-4995-b198-fe64aa8cc8e2.png">
+        </img>
+    </a>
+</p>
+
 <h3 align="center">Página de login:</h3>
 
 <p align="center">
@@ -85,7 +104,7 @@
 
 ##
 
-<h3 align="center">Projeto favorito:</h3>
+<h3 align="center">Jogo da velha:</h3>
 
 <p align="center">
     <a target="_blank" href="https://github.com/Elvis-Almeida/Jogo-da-Velha">
@@ -119,7 +138,7 @@
         src="https://img.shields.io/badge/Instagram-1C1C1C?style=for-the-badge&logo=instagram&logoColor=00FFFF"
         />
     </a>
-    <!-- <a target="_blank" href="https://twitter.com/Elvis-Almeida">
+    <!-- <a target="_blank" href="">
         <img
         align="center"
         src="https://img.shields.io/badge/Twitter-1C1C1C?style=for-the-badge&logo=twitter&logoColor=00FFFF"
