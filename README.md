@@ -99,7 +99,7 @@
         <img
         align="center"
         width="400em"
-        src="./images/Criptografia-RSA.png">
+        src="./images/Criptografia-RSA2.png">
         </img>    
     </a>
 </p>
