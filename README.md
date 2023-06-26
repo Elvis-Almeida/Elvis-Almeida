@@ -106,6 +106,28 @@
 
 ##
 
+<h3 align="center">Sistema de arquivos NFS:</h3>
+
+<p align="center">
+    <a target="_blank" href="https://github.com/wendersoon/sistema_NFS/wiki/Sistema-de-arquivos---NFS">
+        <img
+        align="center"
+        height="120em"
+        src="https://github-readme-stats.vercel.app/api/pin/?username=wendersoon&repo=sistema_NFS&theme=tokyonight">
+        </img>
+    </a>
+    <br><br>
+    <a target="_blank" href="https://github.com/wendersoon/sistema_NFS/wiki/Sistema-de-arquivos---NFS">
+        <img
+        align="center"
+        width="400em"
+        src="./images/NFS.png">
+        </img>    
+    </a>
+</p>
+
+##
+
 <h3 align="center">Jogo da velha:</h3>
 
 <p align="center">
