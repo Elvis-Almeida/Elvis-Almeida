@@ -150,7 +150,11 @@
 ##
 
 <h3 align="center">Sobre mim:</h3>
-<p align="center">Estudei o ensino médio na Escola Estadual São Miguel, atualmente cursando o ensino superior de Ciência da Computação no Instituto Federal de Educação, Ciência e Tecnologia do Maranhão - IFMA - Campus Imperatriz e trabalhando na agência de marketing 9talk. Tenho habilidades em gravação e edição de vídeo, edição de imagens, programação e um pouco em música. tenho medalha de bronze na OBMEP 2016 e 4 menções honrosas OBMEP 2015, 2017, 2018, 2019. Fui aluno destaque em todo ensino médio. Na área de programação tenho conhecimento nas linguagens: HTML, CSS, JavaScript, Python e C, conheça mais sobre o que já fiz e estou fazendo atualmente acessando meus repositórios</p>
+<p align="center">Hello, my name is Elvis Almeida and I am a Computer Science student at the Federal Institute of Education, Science, and Technology of Maranhão - IFMA - Imperatriz Campus. I have skills in web development, including HTML, CSS, and JavaScript, as well as knowledge in Python and C. Currently, I am expanding my knowledge to include technologies such as Node.js, React, and Next.js. I am also improving my proficiency in the English language.
+
+In addition to my studies, I have a significant achievement in the field of mathematics, with a bronze medal in the Brazilian Mathematics Olympiad of Public Schools (OBMEP) in 2016 and receiving honorable mentions in 2015, 2017, 2018, and 2019.
+
+If you would like to learn more about me and explore my professional background, please visit my LinkedIn profile: https://www.linkedin.com/in/elvis-almeida</p>
 
 ##
 
