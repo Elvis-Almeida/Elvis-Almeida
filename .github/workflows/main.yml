@@ -1,13 +1,12 @@
 name: Criando animacao
 
 on:
+  push:
+    branches:
+      - main
   # run automatically every 24 hours
   schedule:
     - cron: "0 */12 * * *" 
-  
-  push:
-    branches:
-    - master
     
   # allows to manually run the job at any time
   workflow_dispatch:
