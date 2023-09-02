@@ -3,27 +3,13 @@
 [![banner](./images/banner.jpg)](https://github.com/Elvis-Almeida)
     
 <p align="center">
-    <a target="_blank" href="https://code.visualstudio.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+<!--         <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="vscode" width="40" height="40"/> -->
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://github.com/Elvis-Almeida/C">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://python.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    </a>
-    <a target="_blank" href="https://git-scm.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    </a>
 </p>
 
 <br>
