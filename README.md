@@ -16,7 +16,7 @@
 
 <h4 align="center">
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá eu sou o Elvis</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello, i'm Elvis</h1></img>
 
 <p align="center">
     <a target="_blank" href="https://github.com/Elvis-Almeida">
@@ -49,7 +49,7 @@
 
 ##
 
-<h3 align="center">Projeto favorito:</h3>
+<h3 align="center">Favorite project:</h3>
 
 <p align="center">
     <a target="_blank" href="https://github.com/Elvis-Almeida/Elvis-Almeida-Servidor-Linux/wiki/01.-Introdu%C3%A7%C3%A3o">
@@ -70,7 +70,7 @@
 
 ##
 
-<h3 align="center">Algoritmo de criptgrafia RSA:</h3>
+<h3 align="center">RSA encryption algorithm:</h3>
 
 <p align="center">
     <a target="_blank" href="https://github.com/vinicius4006/RSA2">
@@ -92,7 +92,7 @@
 
 ##
 
-<h3 align="center">Sistema de arquivos NFS:</h3>
+<h3 align="center">NFS File System:</h3>
 
 <p align="center">
     <a target="_blank" href="https://github.com/wendersoon/sistema_NFS/wiki/Sistema-de-arquivos---NFS">
@@ -114,7 +114,7 @@
 
 ##
 
-<h3 align="center">Jogo da velha:</h3>
+<h3 align="center">Tic Tac Toe:</h3>
 
 <p align="center">
     <a target="_blank" href="https://github.com/Elvis-Almeida/Jogo-da-Velha">
@@ -135,7 +135,7 @@
 
 ##
 
-<h3 align="center">Sobre mim:</h3>
+<h3 align="center">About me:</h3>
 <p align="center">Hello, my name is Elvis Almeida and I am a Computer Science student at the Federal Institute of Education, Science, and Technology of Maranhão - IFMA - Imperatriz Campus. I have skills in web development, including HTML, CSS, and JavaScript, as well as knowledge in Python and C. Currently, I am expanding my knowledge to include technologies such as Node.js, React, and Next.js. I am also improving my proficiency in the English language.</p>
 
 <p align="center">In addition to my studies, I have a significant achievement in the field of mathematics, with a bronze medal in the Brazilian Mathematics Olympiad of Public Schools (OBMEP) in 2016 and receiving honorable mentions in 2015, 2017, 2018, and 2019.</p>
